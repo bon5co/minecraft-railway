@@ -1,5 +1,9 @@
 # minecraft-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/minecraft-or-just-updated-paper-server-w?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Minecraft template](https://railway.com/deploy/minecraft-or-just-updated-paper-server-w?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for a Paper Minecraft server, built on
 [`itzg/minecraft-server`](https://github.com/itzg/docker-minecraft-server) pinned by digest.
 
